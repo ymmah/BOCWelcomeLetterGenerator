@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BOCWelcomeLetterGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IncludeEmail" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="OpenFileAfterGeneration" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="DefaultBranchIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="SimpleLetterGreatingEng" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Thank you for choosing Bank of China. Please find your account information enclosed in this letter.</Value>
+    </Setting>
+    <Setting Name="SimpleLetterGreatingChn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">感谢您选择中国银行，在此列出您持有账户的汇入汇款信息，烦请妥善保管。</Value>
+    </Setting>
+    <Setting Name="SimpleLetterBodyLine1Eng" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SimpleLetterBodyLine1Chn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SimpleLetterBodyLine2Eng" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SimpleLetterBodyLine2Chn" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
