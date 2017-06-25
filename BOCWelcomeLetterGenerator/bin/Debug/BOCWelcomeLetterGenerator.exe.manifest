@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BOCWelcomeLetterGenerator.exe" size="2878464">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BOCWelcomeLetterGenerator.exe" size="2880000">
       <assemblyIdentity name="BOCWelcomeLetterGenerator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>5ZbZA41+OZCyst2xnlTG1md4ffnGDo/icDHWEqizJEs=</dsig:DigestValue>
+        <dsig:DigestValue>W16P0knycNWIlkJdsiLxGubvMOx9MUZ8nhaYdzSZ0RA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -66,13 +66,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="BOCWelcomeLetterGenerator.exe.config" size="2212">
+  <file name="BOCWelcomeLetterGenerator.exe.config" size="2567">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>lMs/TlAXZTHuUMMd9QkWGH/egifT+2+A2FhvQdsXfMU=</dsig:DigestValue>
+      <dsig:DigestValue>Kob/JgKtdtEF4sP4FUn2Vrx+uJLjoli0NS5t/vc/PN0=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\BOCWG.ico" size="161862">

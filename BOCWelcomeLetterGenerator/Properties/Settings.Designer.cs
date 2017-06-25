@@ -86,7 +86,7 @@ namespace BOCWelcomeLetterGenerator.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Please kindly refer above information when you make an inward transfer.")]
         public string SimpleLetterBodyLine1Eng {
             get {
                 return ((string)(this["SimpleLetterBodyLine1Eng"]));
@@ -98,7 +98,7 @@ namespace BOCWelcomeLetterGenerator.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("请您在汇入汇款时参照以上信息进行操作。")]
         public string SimpleLetterBodyLine1Chn {
             get {
                 return ((string)(this["SimpleLetterBodyLine1Chn"]));
@@ -110,7 +110,8 @@ namespace BOCWelcomeLetterGenerator.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Please also be aware that you can always check your account information through y" +
+            "our online/mobile banking.")]
         public string SimpleLetterBodyLine2Eng {
             get {
                 return ((string)(this["SimpleLetterBodyLine2Eng"]));
@@ -122,7 +123,7 @@ namespace BOCWelcomeLetterGenerator.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
+        [global::System.Configuration.DefaultSettingValueAttribute("同时，请注意您的以上账户信息均可以在您的手机银行与网上银行查询。")]
         public string SimpleLetterBodyLine2Chn {
             get {
                 return ((string)(this["SimpleLetterBodyLine2Chn"]));

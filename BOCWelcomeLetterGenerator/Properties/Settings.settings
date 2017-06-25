@@ -18,16 +18,16 @@
       <Value Profile="(Default)">感谢您选择中国银行，在此列出您持有账户的汇入汇款信息，烦请妥善保管。</Value>
     </Setting>
     <Setting Name="SimpleLetterBodyLine1Eng" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">Please kindly refer above information when you make an inward transfer.</Value>
     </Setting>
     <Setting Name="SimpleLetterBodyLine1Chn" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">请您在汇入汇款时参照以上信息进行操作。</Value>
     </Setting>
     <Setting Name="SimpleLetterBodyLine2Eng" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">Please also be aware that you can always check your account information through your online/mobile banking.</Value>
     </Setting>
     <Setting Name="SimpleLetterBodyLine2Chn" Type="System.String" Scope="User">
-      <Value Profile="(Default)" />
+      <Value Profile="(Default)">同时，请注意您的以上账户信息均可以在您的手机银行与网上银行查询。</Value>
     </Setting>
   </Settings>
 </SettingsFile>

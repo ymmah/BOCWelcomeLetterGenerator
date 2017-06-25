@@ -10,7 +10,10 @@ using System.Windows.Forms;
 using PdfFileWriter;
 
 namespace BOCWelcomeLetterGenerator {
+    
+
     public partial class Form1 : Form {
+        public const string VERSION = "1.10";
         private const int NUM_OF_ADDRESS_LINES = 3;
         private const int MAX_ACCOUNTS_SUPPORTED = 4;
 
@@ -80,6 +83,8 @@ namespace BOCWelcomeLetterGenerator {
             }
 
             LoadDefaultSettings();
+
+            versionLabel.Text = "Version: " + VERSION;
         }
 
         private void addressInclusionCheckBox_CheckedChanged(object sender, EventArgs e) {
