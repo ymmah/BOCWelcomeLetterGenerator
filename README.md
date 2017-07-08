@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Automatically log generation history in SQL database.
 - Fetch account data for daily banking report using regular expression. And cross match it against generation history to identify possible error.
 
+## [1.1.1] - 2017-06-26
+### Fixed
+- Bug fixed for illegal file name
+
 ## [1.1.0] - 2017-06-26
 ### Fixed
 - Minor Bug fixed for text display
